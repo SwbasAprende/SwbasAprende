@@ -66,4 +66,4 @@ Convertirme en desarrollador de software empresarial, creando soluciones eficien
 
 ## 📫 Contacto
 
-💬 Siempre abierto a aprender y colaborar
+[![Gmail Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:swbas19@gmail.com)
