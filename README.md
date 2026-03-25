@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Sebastián </h1>
+<h1 align="center">👋 Hola, soy Sebas Paez. </h1>
 <h3 align="center">💻 Developer en Formacion | Futuro Backend Developer</h3>
 
 <p align="center">
