@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">👋 Sebastián</h1>
+<h3 align="center">💻 Developer in Progress | Futuro Backend Developer</h3>
 
-<!--
-**SwbasAprende/SwbasAprende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sebastián%20-%20Developer%20in%20Progress&fontSize=30&fontColor=ffffff" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Aprendiendo+Python;Enfocado+en+Backend;Apasionado+por+los+datos" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+💻 Desarrollador en formación  
+📊 Interesado en software empresarial  
+🧠 Aprendiendo Python, SQL y bases de datos  
+⚙️ Enfocado en resolver problemas reales con código  
+
+---
+
+## 🛠️ Tecnologías
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Proyectos
+
+🔹 Proyectos enfocados en aprendizaje y práctica  
+
+⚠️ Nota: Algunos proyectos han sido desarrollados con apoyo de IA, pero me enfoco en entender, modificar y mejorar cada solución.
+
+---
+
+## 📈 Actualmente aprendiendo
+
+- Lógica de programación
+- Diseño de bases de datos
+- Automatización con Python
+- Buenas prácticas de desarrollo
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Convertirme en desarrollador de software empresarial, creando soluciones eficientes para manejo de datos, automatización y sistemas internos.
+
+---
+
+## 📫 Contacto
+
+💬 Siempre abierto a aprender y colaborar
