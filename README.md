@@ -1,5 +1,5 @@
-<h1 align="center">👋 Sebastián</h1>
-<h3 align="center">💻 Developer in Progress | Futuro Backend Developer</h3>
+<h1 align="center">Hola, soy Sebastián </h1>
+<h3 align="center">💻 Developer en Formacion | Futuro Backend Developer</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sebastián%20-%20Developer%20in%20Progress&fontSize=30&fontColor=ffffff" />
@@ -49,11 +49,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SwbasAprende&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwbasAprende&theme=tokyonight"/>
 </p>
 
 ---
