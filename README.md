@@ -66,5 +66,5 @@ Convertirme en desarrollador de software empresarial, creando soluciones eficien
 
 ## 📫 Contacto
 
-[![gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](swbas19@gmail.com)(mailto:swbas19@gmail.com)
+[![gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:swbas19@gmail.com)
 
